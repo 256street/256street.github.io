@@ -1,5 +1,7 @@
 ![homeImage](./homeImage/homeImage.png)
+
 <br>
+
 <font align="center" size=5> My Note</font>
 
 ---
