@@ -1,1 +1,1 @@
-[GitHub](https://256street.github.io/read1.md)
+[GitHub](./read1.md)
