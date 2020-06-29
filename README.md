@@ -1,4 +1,4 @@
-[GitHub](./homeImage/homeImage.jpg.md)
+![homeImage](./homeImage/homeImage.jpg.md)
 
 <center><font face="黑体" size=10>My Note</font></center>
 
