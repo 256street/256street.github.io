@@ -1,5 +1,5 @@
 ![homeImage](./homeImage/homeImage.jpg)
 
-<font face="黑体" size=10>  <center>  My Note  </center>  </font>
+<div align="center"> <font face="黑体" size=10>    My Note    </font> </div>
 
 [GitHub](./read1.md)
