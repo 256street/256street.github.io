@@ -1,5 +1,7 @@
 ![homeImage](./homeImage/homeImage.png)
 
-<div align="center">  ## ** My Note **    </font> </div>
+<font align="center" size=5> My Note</font>
+
+---
 
 [GitHub](./read1.md)
